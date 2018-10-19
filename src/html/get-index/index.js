@@ -12,7 +12,7 @@ let defaultHTML = `
   <body>
 
     <h1 class="center-text">
-      Howdy World2!
+      Howdy World!
     </h1>
 
     <p class="center-text">
